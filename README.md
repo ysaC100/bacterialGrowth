@@ -15,7 +15,9 @@ Matplotlib
 Terminal Use:
 Run these commands to run the program through your terminal-
 git clone https://github.com/ysaC100/bacterialGrowth
+
 cd bacterialGrowth
+
 python bacterialGrowthPy.py
 
 <img width="337" height="68" alt="Screenshot 2026-11-25 at 11 08 00 PM" src="https://github.com/user-attachments/assets/6bf07aac-3d85-4266-810e-cbeaacd60a3e" />
